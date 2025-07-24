@@ -1,8 +1,14 @@
-# Calculus Multiplayer Graphing Game
+# Sketch That Curve
+
+<img width="1462" height="772" alt="Screenshot 2025-07-24 153306" src="https://github.com/user-attachments/assets/752a9ceb-3aa9-4a12-9f3a-64cb1cbacb0f" />
+
+## Project Overview
 
 A multiplayer web game that allows players to practice calculus concepts and compete against their classmates in a format similar to Kahoot. Players sketch the graph of a function, and the game automatically grades their sketch based on accuracy, players are ranked on a leaderboard. The game was created as part of a high school calculus project. The project was built with Unity and Photon (PUN) networking.
 
-## Features
+- **Original Project Date:** May 2021
+
+### Features
 
 - **Multiplayer Support:** Join lobbies and play with others using Photon (PUN) networking.
 - **Graphing Gameplay:** Answer calculus and graph-based questions by drawing or submitting graphs.
@@ -11,6 +17,10 @@ A multiplayer web game that allows players to practice calculus concepts and com
 - **Main Menu and UI:** Intuitive navigation with main menu, tips, and player listings.
 - **Customizable Questions:** Easily extend or modify the question set.
 - **Audio and Visual Assets:** Includes themed backgrounds, fonts, and sound effects.
+
+## Demo Video
+
+https://github.com/user-attachments/assets/f4fc00fd-cac4-4a1c-a16e-8253d5028bcb
 
 ## Installation
 
